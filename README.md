@@ -1,2 +1,1 @@
-Testikäyttöön tehty readme
-Konahaipper
+Uus nettisivu. Konabass
