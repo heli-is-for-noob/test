@@ -1,5 +1,5 @@
 layout: page
-title: "PAGE TITLE"
-permalink: /URL-PATH/
+title: "KKONA"
+permalink: https://heli-is-for-noob.github.io/test/
 
 <header> Uus nettisivu. Konabass. <header/>
